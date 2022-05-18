@@ -1,6 +1,6 @@
 # Omeka-S320 in Docker containers. S320 stands for Omeka S version 3.2.0
 
-## Launch the containers
+## Launch the containers using VSCode
 
 - Install [VSCode](https://code.visualstudio.com/) and [docker extensions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker).
 - Launch/open VSCode or learn how to use VSCode [here](https://code.visualstudio.com/learn).
