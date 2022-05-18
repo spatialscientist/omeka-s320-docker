@@ -12,7 +12,7 @@
 - Right-click "docker-compose.yml" and select "Compose Up"
 - Go to your browser and type "localhost" for the OmekaS320 instance website or use "localhost:8080" for the phpmyadmin interface to manage MySQL database.
 
-## Launch the containers
+## Launch the containers via command line
 
 Install Docker and Docker-compose on your host (can be a physical or virtual machine). 
 
